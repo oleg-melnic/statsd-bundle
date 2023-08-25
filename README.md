@@ -11,7 +11,7 @@ Applications that use Symfony Flex
 Open a command console, enter your project directory and execute:
 
 ```console
-$ composer require raptor-mvk/statsd-bundle
+$ composer require oleg-melnic/statsd-bundle
 ```
 
 Applications that don't use Symfony Flex
