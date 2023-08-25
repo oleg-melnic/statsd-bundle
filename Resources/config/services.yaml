@@ -1,0 +1,7 @@
+services:
+
+  StatsdBundle\Client\StatsdAPIClient:
+    arguments:
+      - sdfgdfgdfgdf
+      - 844
+      - some_text_app
